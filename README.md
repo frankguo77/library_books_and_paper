@@ -18,6 +18,8 @@
 
 - [Software Engineering @ Google.pdf](<Software_Engineering/Software Engineering @ Google.pdf>)
 
+- [Serialization and Persistent Objects.pdf](<Software_Engineering/Serialization and Persistent Objects.pdf>)
+
 - [sackman1968.pdf](<Software_Engineering/sackman1968.pdf>)
 
 - [Brooks-NoSilverBullet.pdf](<Software_Engineering/Brooks-NoSilverBullet.pdf>)
@@ -146,8 +148,6 @@
 
 - [Primer C++.pdf](<CPP/Primer C++.pdf>)
 
-# [Serialization and Persistent Objects.pdf](./Serialization and Persistent Objects.pdf)
-
 # [Linux](./Linux)
 
 - [Linux.Shell_.Scripting.Cookbook.pdf](<Linux/Linux.Shell_.Scripting.Cookbook.pdf>)
@@ -175,8 +175,6 @@
 # [System_Programming](./System_Programming)
 
 - [Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson).pdf](<System_Programming/Randal E. Bryant, David R. O’Hallaron - Computer Systems. A Programmer’s Perspective [3rd ed.] (2016, Pearson).pdf>)
-
-# [golang-developer-roadmap.png](./golang-developer-roadmap.png)
 
 # [Django](./Django)
 
