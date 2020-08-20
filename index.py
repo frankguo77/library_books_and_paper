@@ -1,8 +1,8 @@
 import os
 
 output_name = "README.md"
-black_list = [".git", ".DS_Store", "index.py", output_name]
-format_order = ["# [words](link)", "- [words](link)"]
+black_list = [".git", ".DS_Store", "index.py", output_name, "commit.sh"]
+format_order = ["# [words](link)", "- [words](<link>)"]
 
 def prepare_file_list(directory, black_list, format_order, acc_result):
 
