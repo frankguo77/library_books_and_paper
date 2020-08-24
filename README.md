@@ -79,6 +79,8 @@
 
 1. [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf](<Machine_Learning/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf>)
 
+1. [how to build a brain.pdf](<Machine_Learning/how to build a brain.pdf>)
+
 ## [Programming_Language](./Programming_Language)
 
 1. [Effective Python.pdf](<Programming_Language/Effective Python.pdf>)
