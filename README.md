@@ -9,6 +9,8 @@
 
 1. [The Practice of Programming.pdf](<Software_Engineering/The Practice of Programming.pdf>)
 
+1. [Structure and Interpretation of Computer Programs (2nd).pdf](<Software_Engineering/Structure and Interpretation of Computer Programs (2nd).pdf>)
+
 1. [code-complete-2nd-edition-v413hav.pdf](<Software_Engineering/code-complete-2nd-edition-v413hav.pdf>)
 
 1. [Extreme Programming Explained. Embrace Chan.pdf](<Software_Engineering/Extreme Programming Explained. Embrace Chan.pdf>)
@@ -36,6 +38,8 @@
 1. [granularity of locks and degrees of consistency rj 1654.pdf](<Database/granularity of locks and degrees of consistency rj 1654.pdf>)
 
 1. [redbook-5th-edition.pdf](<Database/redbook-5th-edition.pdf>)
+
+1. [Spark SQL Function.htm](<Database/Spark SQL Function.htm>)
 
 1. [J. Dean. Designs, lessons and advice from building large distributed systems (keynote). In LADIS, 2009](<Database/J. Dean. Designs, lessons and advice from building large distributed systems (keynote). In LADIS, 2009>)
 
